@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 10.99,
+        "photo": "https://media.istockphoto.com/id/173015527/photo/a-single-red-book-on-a-white-surface.jpg?s=612x612&w=0&k=20&c=AeKmdZvg2_bRY2Yct7odWhZXav8CgDtLMc_5_pjSItY="
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 8.99,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT597ZvgRaR0YD4ydRpt40N6WmQfjtlw_XCWg&s"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 12.99,
+        "photo": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 10.49,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT597ZvgRaR0YD4ydRpt40N6WmQfjtlw_XCWg&s"
+    },
+    {
+        "id": 5,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 9.99,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT597ZvgRaR0YD4ydRpt40N6WmQfjtlw_XCWg&s"
+    }
+]
